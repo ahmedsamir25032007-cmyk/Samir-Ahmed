@@ -1,0 +1,6 @@
+{
+  "name": "Study Verse",
+  "description": "A modern study app for competitive exams such as JEE with chapter notes, MCQ practice, quizzes, and progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
